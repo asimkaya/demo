@@ -1,12 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Kargolar": [
+    { "id": 1, "sorumlu": "Ayşe", "kargo":"FLASH USB", "adres": "Emekköy Mahallesi Beşer Sokak Bursa", "sube":"Emekköy Şubesi", "kargoSahibiAdSoyad":"Emre Kaya" },
+    { "id": 2, "sorumlu": "Sait", "kargo":"Ekran Kartı", "adres": "Akpınar Mahallesi Hoşgör Sokak Bursa", "sube":"Bağlarbaşı Şubesi", "kargoSahibiAdSoyad":"Furkan Topal" },
+    { "id": 3, "sorumlu": "Burak", "kargo":"Kupa Bardak", "adres": "İhsaniye Mahallesi Bilim Bursa", "sube":"İhsaniye Şubesi", "kargoSahibiAdSoyad":"Buse Güzel"  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Calisanlar": [
+    { "id": 1, "subesi": "Emekköy Şube", "adi": "Ayşe Yılmaz" },
+    { "id": 2, "subesi": "Bağlarbaşı Şube", "adi": "Sait Osman" },
+    { "id": 3, "subesi": "İhsaniye Şube", "adi": "Burak Çarpık" }
+  ],
+   "Subeler": [
+    { "id": 1, "subeAdi": "Emekköy Şube", "bölge": "Emekköy" },
+    { "id": 1, "subeAdi": "Bağlarbaşı Şube", "bölge": "Bağlarbaşı"  },
+    { "id": 1, "subeAdi": "İhsaniye Şube", "bölge": "İhsaniye" }
   ],
   "profile": {
     "name": "typicode"

@@ -1,6 +1,11 @@
 {
   "notes": [
-    "id": 1,
-    "note": "test"
-  ]
+    {
+      "id": 1,
+      "note": "hello world"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

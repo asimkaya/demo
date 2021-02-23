@@ -1,20 +1,3 @@
 {
-  "Kargolar": [
-    { "id": 1, "sorumlu": "Ayşe", "kargo":"FLASH USB", "adres": "Emekköy Mahallesi Beşer Sokak Bursa", "sube":"Emekköy Şubesi", "kargoSahibiAdSoyad":"Emre Kaya", "subeid":1 },
-    { "id": 2, "sorumlu": "Sait", "kargo":"Ekran Kartı", "adres": "Akpınar Mahallesi Hoşgör Sokak Bursa", "sube":"Bağlarbaşı Şubesi", "kargoSahibiAdSoyad":"Furkan Topal", "subeid":2  },
-    { "id": 3, "sorumlu": "Burak", "kargo":"Kupa Bardak", "adres": "İhsaniye Mahallesi Bilim Bursa", "sube":"İhsaniye Şubesi", "kargoSahibiAdSoyad":"Buse Güzel", "subeid":3   }
-  ],
-  "Calisanlar": [
-    { "id": 1, "subeid": 1, "adi": "Ayşe Yılmaz" },
-    { "id": 2, "subeid": 2, "adi": "Sait Osman" },
-    { "id": 3, "subeid": 3, "adi": "Burak Çarpık" }
-  ],
-   "Subeler": [
-    { "id": 1, "subeAdi": "Emekköy Şube", "bölge": "Emekköy" },
-    { "id": 2, "subeAdi": "Bağlarbaşı Şube", "bölge": "Bağlarbaşı"  },
-    { "id": 3, "subeAdi": "İhsaniye Şube", "bölge": "İhsaniye" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
